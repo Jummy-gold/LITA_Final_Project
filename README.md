@@ -78,3 +78,26 @@ The variables used are
 ![customer data pivot 4](https://github.com/user-attachments/assets/b5014431-dc73-4e15-981e-dfe63864c5c6)
 ![customer data pivot 5](https://github.com/user-attachments/assets/d3dc43ee-b00e-4897-8dfc-dc74ec82d13f)
 
+## ANALYSIS ON SQL
+- Retrieve the total number of customers from each Region
+```
+SELECT Region, COUNT(CustomerID) AS Total_No_of_Customers
+FROM [dbo].[CUSTOMER_DATA_CSV01]
+GROUP BY Region
+```
+- Find customers with subscriptions longer than 12 months
+```
+SELECT CustomerName,SubscriptionType,SubscriptionStart,SubscriptionEnd
+FROM [dbo].[CUSTOMER_DATA_CSV01]
+WHERE DATEDIFF(MONTH,SubscriptionStart,SubscriptionEnd) >=12
+```
+- Find the total number of active and cancelled subscription
+```
+SELECT SUM(CASE WHEN Canceled = 0 THEN 1 ELSE 0  END) AS ActiveSubscriptions,
+SUM (CASE WHEN Canceled = 1 THEN 1 ELSE 0 END) AS CanceledSubscriptions
+FROM [dbo].[CUSTOMER_DATA_CSV01]
+GROUP BY CANCELED
+```
+
+
+
