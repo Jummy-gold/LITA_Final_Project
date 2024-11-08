@@ -28,6 +28,27 @@ To determine the subscription trend in the four regions of Nigeria.
 
 - Power BI...for building visualizations based on data received.
 
+## DATA ANALYSIS
+
+The variables used are
+
+- Customer ID
+
+- Customer Name
+
+- Region
+
+- Subscription Type
+
+- Subscription Start
+
+- Subscription End
+
+- Cancelled
+
+- Revenue
+
+- Subscription Duration
 
 
 
