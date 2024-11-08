@@ -98,6 +98,10 @@ SUM (CASE WHEN Canceled = 1 THEN 1 ELSE 0 END) AS CanceledSubscriptions
 FROM [dbo].[CUSTOMER_DATA_CSV01]
 GROUP BY CANCELED
 ```
+## ANALYSIS ON POWER BI
 
+- Below are the visuals obtained from the Power BI
+
+  
 
 
