@@ -7,3 +7,9 @@ This is where I documented my final project with Ladies in Tech Africa (LITA)
 
 To determine the subscription trend in the four regions of Nigeria.
 ## DATA SOURCES
+- [Microsoft Excel](Download Here)
+
+- Incubator Hub Customer Data
+
+- Capstone Project Customer Data
+
