@@ -12,15 +12,16 @@ To determine the subscription trend in the four regions of Nigeria.
 - Incubator Hub Customer Data
 
 - Capstone Project Customer Data
+
 ## DATA CLEANING AND PREPARATION
 
 - Microsoft Excel
 
-          1. Data cleaning
+   1. Data cleaning
 
-          2. For Data Analysis
+   2. For Data Analysis
 
-          3. For visualization
+   3. For visualization
 
 - SQL Structured Query Language...For Querying Data
 
