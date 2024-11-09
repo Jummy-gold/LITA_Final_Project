@@ -102,6 +102,7 @@ GROUP BY CANCELED
 ## ANALYSIS ON POWER BI
 
 - Below are the visuals obtained from the Power BI
+ 
 ![Screenshot 2024-11-06 032803 customer data power bi 1](https://github.com/user-attachments/assets/a4138100-d5e0-4376-9efb-e343834ed567)
 ![Screenshot 2024-11-06 032910 power bi customer data 2](https://github.com/user-attachments/assets/cbc93395-8a4f-4e53-8c74-32e738a2ea69)
 
