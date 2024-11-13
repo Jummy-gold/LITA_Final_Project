@@ -105,7 +105,21 @@ GROUP BY CANCELED
  
 ![Screenshot 2024-11-06 032803 customer data power bi 1](https://github.com/user-attachments/assets/a4138100-d5e0-4376-9efb-e343834ed567)
 ![Screenshot 2024-11-06 032910 power bi customer data 2](https://github.com/user-attachments/assets/cbc93395-8a4f-4e53-8c74-32e738a2ea69)
+![Power Bi 3](https://github.com/user-attachments/assets/e0ac5359-9cec-42d2-93a8-d6d172188816)
 
- # INFERENCE
+ ## INFERENCE
+
+ The Customer Data has more subscribers on Basic subscriber type than on Standard and Premium subscription types...this might be due to high prices and other inherent factors.
+
+ ## RECOMENDATION
+
+ The regions that has low subscription should be looked into by introducing more cultural programs that are specific to each regions. 
+ Also promotions and bonuses can be introduced to encourage more people to subscribe.
+ Pay as you go can also be initiated so that consumers will be encouraged to subscribe and also to eradicate canceling of subscriptions.
+ 
+ 
+
+ 
+ 
 
 
